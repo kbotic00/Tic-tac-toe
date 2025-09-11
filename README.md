@@ -1,9 +1,9 @@
 # Tic-tac-toe
-Game tic-tac-toe for Udemy course
+Game tic-tac-toe for Udemy course. The look of the main components.
 
-## Header 
+### Header 
 ![header](public/headerImage.png)
-## Gameboard
+### Gameboard
 ![gameboard](public/gameBoardImage.png)
-## Gameover
+### Gameover
 ![gameover](public/gameOverImage.png)
