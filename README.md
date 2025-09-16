@@ -2,10 +2,10 @@
 Game tic-tac-toe for Udemy course. The look of the main components.
 
 ## Header
-![Header](public/headerImage.png)
+![Header](./07-tic-tac-toe-starting-project/public/headerImage.png)
 
 ## Gameboard
-![Gameboard](public/gameBoardImage.png)
+![Gameboard](./07-tic-tac-toe-starting-project/public/gameBoardImage.png)
 
 ## Gameover
-![Gameover](public/gameOverImage.png)
+![Gameover](./07-tic-tac-toe-starting-project/public/gameOverImage.png)
