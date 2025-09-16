@@ -1,5 +1,5 @@
 # Tic-tac-toe
-Game tic-tac-toe for Udemy course
+Game tic-tac-toe for Udemy course. The look of the main components.
 
 ## Header
 ![Header](public/headerImage.png)
